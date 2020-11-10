@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego Buriti</h1>
 <h3 align="center">Software Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 **I’m currently learning Typescript**
 
-- 💬 Ask me about **react, javascript, html and css**
+- 💬 **Ask me about react, javascript, html and css**
 
-- 📄 Know about my experiences [Golang, react, javascript, html and css](Golang, react, javascript, html and css)
+- 📄 **Know about my experiences Golang, react, javascript, html and css**
 
 - ⚡ **In my free time I like to watch NBA :basketball: and soccer :soccer:, to read books :books:, to listen to hip hop music :headphones: and practice running :running:.**
 
