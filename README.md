@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Buriti</h1>
 <h3 align="center">Software Developer from Brazil</h3>
 
-- 🌱 **I’m currently learning Typescript**
+- 🌱 **I’m currently learning Typescript and GraphQL**
 
 - 💬 **Ask me about react, javascript, html and css**
 
